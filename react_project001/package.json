@@ -1,0 +1,11 @@
+{
+  "name": "react_project001",
+  "version": "0.0.1",
+  "description": "发包测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangj",
+  "license": "MIT"
+}
